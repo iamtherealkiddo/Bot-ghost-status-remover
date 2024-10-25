@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["💻 Made By Droxaros", "💻 Made By Droxaros"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = [ 'dnd' ];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
